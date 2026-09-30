@@ -62,7 +62,7 @@ header {
 /* Hero Section style */
 .hero {
     min-height: 100vh;
-    background-image: url('/faisal-profile/asset/image/Miyamoto-Musashi-&-Sasaki-Kojirō.jpg');
+    background-image: url('./asset/image/Miyamoto-Musashi-&-Sasaki-Kojirō.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
